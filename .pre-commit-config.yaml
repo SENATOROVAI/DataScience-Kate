@@ -173,7 +173,6 @@ repos:
           - --warn-return-any
 
 
-
         additional_dependencies:
           - mypy
           - pandas-stubs
