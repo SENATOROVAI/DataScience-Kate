@@ -75,7 +75,7 @@ repos:
         additional_dependencies:
           - tomli
         args:
-          - --ignore-regex=^(image\/(png|jpe?g)):\s.*
+          - --ignore-regex=^\s*"image\/jpeg|png":\s.*
           - --skip=*.js,*.html,*.css,*.svg",*.json,*.png,*.jpg,*.yml,*.yaml
   - repo: https://github.com/nbQA-dev/nbQA
     rev: 1.8.5
