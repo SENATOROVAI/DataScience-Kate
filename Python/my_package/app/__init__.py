@@ -8,5 +8,3 @@ from .modul1 import value as val1
 from .modul2 import value as val2
 
 print("RUN __INIT__")
-
-
