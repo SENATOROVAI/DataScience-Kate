@@ -1,1 +1,26 @@
-.
+
+## Python
+  * Hw Lessons Log
+    * [Git](Python/HW_lessons_log/git.ipynb)
+    * [Git](Python/HW_lessons_log/git.py)
+    * [Lesson1](Python/HW_lessons_log/lesson1.ipynb)
+    * [Lesson1](Python/HW_lessons_log/lesson1.py)
+    * [Lesson2](Python/HW_lessons_log/lesson2.ipynb)
+    * [Lesson2](Python/HW_lessons_log/lesson2.py)
+    * [Lesson4](Python/HW_lessons_log/lesson4.ipynb)
+    * [Lesson4](Python/HW_lessons_log/lesson4.py)
+    * [Lesson5 25 06](Python/HW_lessons_log/lesson5_25_06.ipynb)
+    * [Lesson5 25 06](Python/HW_lessons_log/lesson5_25_06.py)
+    * [Log](Python/HW_lessons_log/log.ipynb)
+    * [Log](Python/HW_lessons_log/log.py)
+    * [Traceback Debug](Python/HW_lessons_log/traceback_debug.ipynb)
+    * [Traceback Debug](Python/HW_lessons_log/traceback_debug.py)
+  * Made-Easy
+    * [Chapter 1 Introduction To Data Science And Programming Basics](Python/Made-Easy/chapter_1_introduction_to_data_science_and_programming_basics.ipynb)
+    * [Chapter 1 Introduction To Data Science And Programming Basics](Python/Made-Easy/chapter_1_introduction_to_data_science_and_programming_basics.py)
+    * [Chapter 2 Introduction To Python](Python/Made-Easy/chapter_2_introduction_to_python.ipynb)
+    * [Chapter 2 Introduction To Python](Python/Made-Easy/chapter_2_introduction_to_python.py)
+    * [Chapter 3 Basics Python](Python/Made-Easy/chapter_3_basics_python.ipynb)
+    * [Chapter 3 Basics Python](Python/Made-Easy/chapter_3_basics_python.py)
+    * [Chapter 4 .Object And Operator](Python/Made-Easy/chapter_4_.object_and_operator.ipynb)
+    * [Chapter 4 .Object And Operator](Python/Made-Easy/chapter_4_.object_and_operator.py)
