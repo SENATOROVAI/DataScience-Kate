@@ -1,4 +1,3 @@
-
 ## Business Analyst Lectures
   * [Business Analyst 1](Business_analyst_lectures/business_analyst_1.ipynb)
   * [Business Analyst 1](Business_analyst_lectures/business_analyst_1.py)
@@ -7,12 +6,12 @@
 
 ## Math
   * Probability
-    * [Combin](Math/Probability/combin.ipynb)
-    * [Combin](Math/Probability/combin.py)
+    * [Combine](Math/Probability/combin.ipynb)
+    * [Combine](Math/Probability/combin.py)
   * Calculus
     * Home Work
-      * [Set Teory](Math/calculus/Home_work/set_teory.ipynb)
-      * [Set Teory](Math/calculus/Home_work/set_teory.py)
+      * [Set Theory](Math/calculus/Home_work/set_teory.ipynb)
+      * [Set Theory](Math/calculus/Home_work/set_teory.py)
     * Theory
       * [Limit Py](Math/calculus/theory/limit_py.ipynb)
       * [Limit Py](Math/calculus/theory/limit_py.py)
